@@ -10,7 +10,7 @@ struct Publicacion: Codable{
     //Encodable: Permite convertir un modelos de swift a JSON
     //Codable: Ambas al mismo tiempo
     var id: Int
-    var usarId: Int
+    var userId: Int
     var title: String
     var body: String
 }

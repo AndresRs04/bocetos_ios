@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "582695F5-4691-4F77-97AD-75EC3F38D27C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51E98405-9132-481E-9E31-84D0FA29BE45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "boceto_2_CellView/controladores_de_pantallas/vista_de_celdas/VistaDeZeldaCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "VistaDeZelda"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "51E98405-9132-481E-9E31-84D0FA29BE45 - 72fb847e582f7127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "boceto_2_CellView.VistaDeZelda.etiqueta.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "boceto_2_CellView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/bocetos_ios-main/boceto_2_CellView/boceto_2_CellView/controladores_de_pantallas/vista_de_celdas/VistaDeZeldaCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "51E98405-9132-481E-9E31-84D0FA29BE45 - 7ec643cf1af1dd33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "boceto_2_CellView.VistaDeZelda.etiqueta.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "boceto_2_CellView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/bocetos_ios-main/boceto_2_CellView/boceto_2_CellView/controladores_de_pantallas/vista_de_celdas/VistaDeZeldaCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "51E98405-9132-481E-9E31-84D0FA29BE45 - 42ffc5e7e97cccae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "boceto_2_CellView.VistaDeZelda.etiqueta.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "boceto_2_CellView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/bocetos_ios-main/boceto_2_CellView/boceto_2_CellView/controladores_de_pantallas/vista_de_celdas/VistaDeZeldaCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "51E98405-9132-481E-9E31-84D0FA29BE45 - f2f48d45254be69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "boceto_2_CellView.VistaDeZelda.etiqueta.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "boceto_2_CellView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/bocetos_ios-main/boceto_2_CellView/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "51E98405-9132-481E-9E31-84D0FA29BE45 - 576bab095fd9ab2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "boceto_2_CellView.VistaDeZelda.init(frame: __C.CGRect) -&gt; boceto_2_CellView.VistaDeZelda"
+                  moduleName = "boceto_2_CellView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/bocetos_ios-main/boceto_2_CellView/boceto_2_CellView/controladores_de_pantallas/vista_de_celdas/VistaDeZeldaCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "51E98405-9132-481E-9E31-84D0FA29BE45 - 7602ab37b71b902d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "boceto_2_CellView.VistaDeZelda.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;boceto_2_CellView.VistaDeZelda&gt;"
+                  moduleName = "boceto_2_CellView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alumno/Desktop/bocetos_ios-main/boceto_2_CellView/boceto_2_CellView/controladores_de_pantallas/vista_de_celdas/VistaDeZeldaCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

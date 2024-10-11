@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FB43672F2CB6D7CB00CBA5BB /* posts.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB43672E2CB6D7CB00CBA5BB /* posts.swift */; };
+		FB7239C22CB984F300AAE6A4 /* EstiloCellViewControllerCelular.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7239C12CB984F300AAE6A4 /* EstiloCellViewControllerCelular.swift */; };
 		FBA115122CB4338C00374E7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA115112CB4338C00374E7C /* AppDelegate.swift */; };
 		FBA115142CB4338C00374E7C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBA115132CB4338C00374E7C /* SceneDelegate.swift */; };
 		FBA115192CB4338C00374E7C /* Base in Resources */ = {isa = PBXBuildFile; fileRef = FBA115182CB4338C00374E7C /* Base */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		FB43672E2CB6D7CB00CBA5BB /* posts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = posts.swift; sourceTree = "<group>"; };
+		FB7239C12CB984F300AAE6A4 /* EstiloCellViewControllerCelular.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EstiloCellViewControllerCelular.swift; sourceTree = "<group>"; };
 		FBA1150E2CB4338C00374E7C /* boceto_2_CellView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = boceto_2_CellView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBA115112CB4338C00374E7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FBA115132CB4338C00374E7C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,14 @@
 				FB43672E2CB6D7CB00CBA5BB /* posts.swift */,
 			);
 			path = modelos;
+			sourceTree = "<group>";
+		};
+		FB7239C02CB984C200AAE6A4 /* estilos */ = {
+			isa = PBXGroup;
+			children = (
+				FB7239C12CB984F300AAE6A4 /* EstiloCellViewControllerCelular.swift */,
+			);
+			path = estilos;
 			sourceTree = "<group>";
 		};
 		FBA115052CB4338C00374E7C = {
@@ -151,6 +161,7 @@
 		FBA115422CB436A500374E7C /* vista_de_celdas */ = {
 			isa = PBXGroup;
 			children = (
+				FB7239C02CB984C200AAE6A4 /* estilos */,
 				FBA115432CB4375D00374E7C /* ControladorPantallaPrincipalDeColeccion.swift */,
 				FBA115452CB43D3100374E7C /* VistaDeZeldaCollectionViewCell.swift */,
 			);
@@ -293,6 +304,7 @@
 				FB43672F2CB6D7CB00CBA5BB /* posts.swift in Sources */,
 				FBA115462CB43D3100374E7C /* VistaDeZeldaCollectionViewCell.swift in Sources */,
 				FBA115442CB4375D00374E7C /* ControladorPantallaPrincipalDeColeccion.swift in Sources */,
+				FB7239C22CB984F300AAE6A4 /* EstiloCellViewControllerCelular.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
