@@ -26,6 +26,7 @@ class ControladorPantallaPrincipalDeColeccion: UICollectionViewController {
                     
                     DispatchQueue.main.async {
                         self.collectionView.reloadData()
+                        print("Estamos recargando la informacion en pantalla")
                     }
                     
                 }
